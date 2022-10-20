@@ -4,15 +4,18 @@
     padding: 0;
     margin: 0;
 }
+
 /* element selector dictates the background color for the document */
 body {
     background-color: #d9dcd6;
 }
+
 /* dictates the color of anchor elements and removes underline from hyperlinks*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
+
 /* ditates the font size of paragraph elements */
 p {
     font-size: 16px;
@@ -47,6 +50,7 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
+
 /* class selector dictates the formatting, background image and properties for the hero section */
 .hero {
     height: 800px;
